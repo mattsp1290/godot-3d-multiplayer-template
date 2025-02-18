@@ -7,6 +7,9 @@ A very basic multiplayer template set in a 3D world. Use this as a starting poin
 - Basic main menu
 - Can run as [host or dedicated server](https://youtu.be/jgJuX04cq7k)
 
+## Fork Differences
+This fork implements [godot-ci](https://github.com/abarichello/godot-ci) for self-hosted GitHub action runners.
+
 ## Issues?
 - Please [create an issue](https://github.com/BatteryAcid/godot-3d-multiplayer-template/issues/new) if you find a bug or have a suggestion
 
